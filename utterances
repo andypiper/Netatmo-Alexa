@@ -1,0 +1,41 @@
+AskTemperature what's the temperature {Location}
+AskTemperature what's the temperature in {Location}
+AskTemperature what's the temperature in the {Location}
+AskTemperature get the temperature {Location}
+AskTemperature get the temperature in {Location}
+AskTemperature get the temperature in the {Location}
+
+AskCarbonDioxide what's the comfort level {Location}
+AskCarbonDioxide what's the comfort level in {Location}
+AskCarbonDioxide what's the comfort level in the {Location}
+
+AskCarbonDioxide get the comfort level {Location}
+AskCarbonDioxide get the comfort level in {Location}
+AskCarbonDioxide get the comfort level in the {Location}
+
+AskHumidity what's the humidity {Location}
+AskHumidity what's the humidity in {Location}
+AskHumidity what's the humidity in the {Location}
+AskHumidity get the humidity {Location}
+AskHumidity get the humidity from {Location}
+AskHumidity get the humidity in {Location}
+AskHumidity get the humidity in the {Location}
+AskHumidity get humidity
+
+AskRain is it raining
+AskRain did it rain
+AskRain did it rain today
+AskRain get rain millimeter count
+AskRain get rain
+
+AskSound get sound level
+AskSound tell me how loud it is
+
+AskWind is it windy
+AskWind get wind
+AskWind get wind measures
+AskWind get direction
+AskWind get speed
+
+AskPressure get pressure
+AskPressure what's the pressure
